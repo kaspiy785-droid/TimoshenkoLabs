@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Основная задача",
+    "category": "учёба",
+    "amount": 4,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Дополнительная задача",
+    "category": "учёба",
+    "amount": 2,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Итоговый проект по Python",
+    "category": "практика",
+    "amount": 6,
+    "completed": false
+  }
+]
